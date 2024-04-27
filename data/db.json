@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Test",
+      "price": 1600,
+      "checked": true
+    },
+    {
+      "id": "3",
+      "name": "Phone",
+      "price": 1600,
+      "checked": false
+    },
+    {
+      "id": "4",
+      "name": "Printer",
+      "price": 5500,
+      "checked": false
+    },
+    {
+      "id": "5",
+      "name": "Print",
+      "price": 2000,
+      "checked": false
+    },
+    {
+      "id": "6",
+      "name": "aa",
+      "price": 5420,
+      "checked": false
+    },
+    {
+      "id": "7",
+      "name": "yy",
+      "price": 1450,
+      "checked": false
+    },
+    {
+      "id": "8",
+      "name": "xx",
+      "price": 4600,
+      "checked": false
+    }
+  ]
+}
