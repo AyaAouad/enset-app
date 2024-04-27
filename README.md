@@ -25,7 +25,7 @@
 <img width="836" alt="1" src="https://github.com/AyaAouad/enset-app/assets/110836586/bf626f75-bb1b-4893-a63d-38c460906b79">
 <h5>13- Affichage de la page "home" avec la création d'une carte avec le titre "Home composent" à l'intérieur stylisée avec Bootstrap.</h5>
 <img width="836" alt="1" src="https://github.com/AyaAouad/enset-app/assets/110836586/5dcb841a-8475-4e18-bf53-6c6f19ebd78d">
-<h5>14- Affichage de la page "products" avec la création d'un tableau avec des en-têtes tels que : Name, Price et cheked qui est une case à cocher pour indiquer s'il est vérifié..</h5>
+<h5>14- Affichage de la page "products" avec la création d'un tableau avec des en-têtes tels que : Name, Price et cheked qui est une case à cocher pour indiquer s'il est vérifié.</h5>
 <img width="836" alt="1" src="https://github.com/AyaAouad/enset-app/assets/110836586/e71b1621-efd9-4f31-8d75-110443b39669">
 <h5>15- Installation localement du module npm "json-server" qui permet de créer facilement une API RESTful à partir d'un fichier JSON pour le développement et le test d'applications frontend.</h5>
 <img width="836" alt="1" src="https://github.com/AyaAouad/enset-app/assets/110836586/f79ecf50-955d-4ddd-881d-0e5af8c96daf">
